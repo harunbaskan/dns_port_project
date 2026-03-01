@@ -21,7 +21,7 @@ int total_ports = 3;  // Kaç port tarayacağız
 
 // tarama sonuclari
 string scan_results[3];
-
+//commıt
 
 // dns header yapisi (12 byte)
 #pragma pack(push, 1) // Derleyiciye: boşluk bırakma, sıkıştır
